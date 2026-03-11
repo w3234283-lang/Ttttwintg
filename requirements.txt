@@ -1,1 +1,2 @@
 pyTelegramBotAPI==4.14.0
+cryptopy-telegram==1.0.0
