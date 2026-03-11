@@ -1,3 +1,4 @@
+# В requirements.txt замените на:
 pyTelegramBotAPI==4.14.0
-cryptopy-telegram==1.0.0
 python-dotenv==1.0.1
+cryptography==41.0.7  # или нужный вам пакет
